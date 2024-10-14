@@ -1,0 +1,98 @@
+*{
+    margin-left: 50px;
+    margin-right: 50px;
+
+}
+
+.container{
+    display: grid;
+    grid-auto-flow: column;
+    grid-auto-columns: 1fr;
+}
+
+#portifolio{
+    font-family: "Poppins" ;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 28px;
+    line-height: 42px;
+    text-decoration-line: underline;
+    color: #070F18;
+    margin-top: 40px;
+    margin-bottom: 40px;
+
+}
+
+#ListaMenu {
+   
+    list-style-type: none;  
+    margin: 0px;
+    padding: 0px;  
+    text-align:left;
+
+}
+
+#ListaMenu li{
+
+    display: inline-block;
+    margin-top: 90px;
+    margin-left: 10px;
+    font-family: "Poppins" ;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+
+}
+
+
+a {
+    margin-left: 1px;
+    color: black;
+    text-decoration: none;
+}
+
+#BotãoCTA {
+
+    background: #1F7CFF;
+    border-radius: 50px;
+    font-family: "Poppins";
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    text-align: center;
+    color: #FFFFFF;
+    padding: 10px 25px 10px 25px ;
+    margin-left: 50px;
+    
+
+}
+
+#ParagrafoCTA{
+    font-family: "Poppins" ;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 32px;
+    color: #575455;
+    margin-top: 30px;
+    margin-bottom: 40px;
+}
+
+#TituloCTA {
+    font-family: "Poppins" ;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 55px;
+    line-height: 82px;
+    color: #000000;
+
+}
+
+#ImgCTA{
+    
+    width: 100%;
+    margin-left: -18px;
+    image-orientation: initial;
+    
+}
