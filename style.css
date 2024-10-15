@@ -96,3 +96,158 @@ a {
     image-orientation: initial;
     
 }
+
+#textoClientes{
+    margin-top: 50px;
+    font-family: "Poppins" ;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 30px;
+    color: #070F18;
+}
+
+#Logo{
+    margin-top: 70px;
+    
+}
+#logos{
+    margin-right: 120px;
+
+
+}
+
+#Serviços{
+    display: block;
+    text-align: center;
+    margin-top: 70px;
+}
+
+#ParagrafoServiços{
+    text-align: center;
+    font-family: "Poppins" ;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 24px;
+}
+
+#ConheçaServiços{
+    font-family: "Poppins" ;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 24px;
+    color: #F75C4E;
+}
+
+#Serviços h1{
+    font-family: "Poppins" ;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 40px;
+    color: #000000;
+}
+
+#IconesServiços{
+    text-align: center;
+    margin-top: 70px;
+    margin-right:120px;
+}
+
+#IconesServiços h1{
+    font-family: "Poppins" ;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 40px;
+    color: #000000;
+}
+#IconesServiços p{
+    font-family: "Poppins" ;
+    font-style:normal;
+    font-weight:normal;
+    font-size: 16px;
+    line-height: 24px;
+    color: #575455;
+}
+
+#Formulario{
+    text-align: justify;
+    margin-top: 80px;
+}
+
+#ImgFormulario{
+    margin-top: 80px;
+}
+
+#form {
+    text-align: justify;
+    margin-top: 50px;
+    margin-left: -2px;
+}
+
+#Formulario h2{
+    font-family: "Poppins" ;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 24px;
+    color: #F75C4E;
+
+}
+#Formulario h1{
+    font-family: "Poppins" ;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 40px;
+    color: #000000;
+
+}
+#Formulario p{
+    font-family: "Poppins" ;
+    font-style:normal;
+    font-weight:normal;
+    font-size: 16px;
+    line-height: 24px;
+    color: #575455;
+}
+
+#email{
+    
+    width: 406px;
+    height: 48px;
+    background-color: #e7e7e7;
+    border: 0px;
+    border-radius: 8px;
+    padding-left: 20px;
+}
+
+
+#ButtonEmail{
+    margin-top: 50px;
+    width: 180px;
+    height: 48px;
+    border-radius: 50px ;
+    background-color: #1F7CFF;
+    border: 0px;
+    cursor: pointer;
+    color: white;
+    font-family: "Poppins";
+    font-weight: bold;
+    font-size: 16px;
+   
+}
+
+#ButtonEmail:hover {
+    transform: translateY(-7px);
+    transition: 0,7s;
+    background-color: #4f98ff;
+    box-shadow: 5px 8px rgb(136, 136, 136);
+  
+}
+
+
+
